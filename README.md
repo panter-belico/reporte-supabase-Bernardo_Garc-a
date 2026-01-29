@@ -1,4 +1,14 @@
 # SUPABASE  #
+# PARTE 1 #
+
+
+<img width="956" height="713" alt="Captura de pantalla 2026-01-29 080829" src="https://github.com/user-attachments/assets/187b56d6-3cdd-44de-a2a0-82214a2801c3" />
+
+
+
+
+
+# PARTE 2 #
 
 ## Entorno de Edición (IDE)
 Gracias a su naturaleza Open Source y sus archivos de configuración en GitHub, sabemos exactamente qué prefieren:
