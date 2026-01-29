@@ -1,4 +1,4 @@
-# SUPABASE #
+# SUPABASE  #
 
 ## Entorno de Edición (IDE)
 Gracias a su naturaleza Open Source y sus archivos de configuración en GitHub, sabemos exactamente qué prefieren:
